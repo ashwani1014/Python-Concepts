@@ -1,2 +1,7 @@
-class Init:
-    pass
+class Student:
+    def __init__(self, name):
+        self.name = name
+
+s1 = Student("Ashwani")
+
+print(s1.name)
