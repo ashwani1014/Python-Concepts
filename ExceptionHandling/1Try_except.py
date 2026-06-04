@@ -6,4 +6,5 @@ try:
 except KeyError:
     print("Amm does not exist")
     
-    
+
+print("hello exception is done")    
