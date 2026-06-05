@@ -4,7 +4,7 @@ try:
     print(flavour["AAM"])
 
 except KeyError:
-    print("Amm does not exist")
+    print("AAm does not exist")
     
 
 print("hello exception is done")    
